@@ -1,2 +1,2 @@
-# sfyoutubedemo
-skill foundry youtube demo
+
+streaming chatgtp
